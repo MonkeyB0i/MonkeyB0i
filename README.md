@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning c sharp
-- 🌱 I’m currently learning c sharp 
+- 🔭 I’m currently working on learning C sharp
+- 🌱 I’m currently learning C sharp 
 - 👯 I’m looking to collaborate on a team project
 - 🤔 I’m looking for help with codeing
 - 💬 Ask me about something I know like pc parts
