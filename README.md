@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning c sharp 
 - 👯 I’m looking to collaborate on a team project
 - 🤔 I’m looking for help with codeing
-- 💬 Ask me about something i know
+- 💬 Ask me about something I know like pc parts
 - 📫 How to reach me: pazosx@bsd405.org
 - 😄 Pronouns:he/him
-- ⚡ Fun fact: did you know that monkeys can live for between 10 and 50 years
+- ⚡ Fun fact: did you know that monkeys can live between 10 and 50 years
 -->
